@@ -24,4 +24,5 @@ function iLoveTheBeatles(num) {
     newVarr.push("I love the Beatles!")
     count++
   } while (count < num)
+  return newArr
 }
