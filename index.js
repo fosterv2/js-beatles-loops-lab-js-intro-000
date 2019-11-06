@@ -21,7 +21,7 @@ function iLoveTheBeatles(num) {
   var newArr = []
   var count = 0
   do {
-    newVarr.push("I love the Beatles!")
+    newArr.push("I love the Beatles!")
     count++
   } while (count < num)
   return newArr
